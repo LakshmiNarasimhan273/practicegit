@@ -1,3 +1,0 @@
-Server running on port http://localhost:3001
-DB Connected
-Security established

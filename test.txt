@@ -1,4 +1,0 @@
-Test log1: Passed
-Test log2: Passed
-Test log3: Passed
-Test log4: Passed
